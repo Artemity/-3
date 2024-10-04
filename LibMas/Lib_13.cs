@@ -36,6 +36,7 @@ namespace Lib_13
             strCountLessAverage.Remove(strCountLessAverage.Length-1);
             return strCountLessAverage;
         }
+        int proverkaGit = 512;
     }
 
 }
